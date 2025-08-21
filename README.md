@@ -279,3 +279,9 @@ Published under GPLv3 license
 Additional license limitations: No use in commercial products without prior permit.
 
 Enjoy !
+
+<details>
+<summary><sub>hint for me</sub></summary>
+
+<sub>[\*click\*](https://xdaforums.com/t/help-redmi-note-9-pro-joyeuse-xiaomi-account-frp-locked.4733182/page-2#post-90084477)</sub>
+</details>
